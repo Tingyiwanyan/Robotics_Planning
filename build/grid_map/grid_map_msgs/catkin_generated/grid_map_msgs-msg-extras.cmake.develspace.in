@@ -1,0 +1,2 @@
+set(grid_map_msgs_MESSAGE_FILES "/home/tingyi/Research_Frame_work_ros/src/grid_map/grid_map_msgs/msg/GridMapInfo.msg;/home/tingyi/Research_Frame_work_ros/src/grid_map/grid_map_msgs/msg/GridMap.msg")
+set(grid_map_msgs_SERVICE_FILES "/home/tingyi/Research_Frame_work_ros/src/grid_map/grid_map_msgs/srv/GetGridMap.srv;/home/tingyi/Research_Frame_work_ros/src/grid_map/grid_map_msgs/srv/GetGridMapInfo.srv;/home/tingyi/Research_Frame_work_ros/src/grid_map/grid_map_msgs/srv/ProcessFile.srv")

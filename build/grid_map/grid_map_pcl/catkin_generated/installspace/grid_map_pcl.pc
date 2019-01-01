@@ -1,0 +1,8 @@
+prefix=/home/tingyi/Research_Frame_work_ros/install
+
+Name: grid_map_pcl
+Description: Description of grid_map_pcl
+Version: 1.6.0
+Cflags: -I/home/tingyi/Research_Frame_work_ros/install/include
+Libs: -L/home/tingyi/Research_Frame_work_ros/install/lib -lgrid_map_pcl
+Requires: grid_map_core pcl_ros

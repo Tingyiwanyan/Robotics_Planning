@@ -1,0 +1,8 @@
+prefix=/home/tingyi/Research_Frame_work_ros/devel
+
+Name: robot_planning
+Description: Description of robot_planning
+Version: 0.0.0
+Cflags: -I/home/tingyi/Research_Frame_work_ros/src/robot_planning/include
+Libs: -L/home/tingyi/Research_Frame_work_ros/devel/lib -ldyna_rtdp
+Requires: roscpp rospy std_msgs
